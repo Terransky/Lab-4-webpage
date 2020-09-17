@@ -1,7 +1,10 @@
 
 
 
-
+script {
+    font-size: 30px;
+    text-align: center;
+}
 
 body {
     background-color: lavenderblush;
@@ -54,5 +57,5 @@ img {
     height: 300px;
     float: left;
     margin-left: 100px;
-    
+}
 
